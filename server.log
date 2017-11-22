@@ -1,0 +1,10 @@
+INFO -  2017-11-22 03:30:54,430 -  Server has started
+INFO -  2017-11-22 03:30:54,431 -  Waiting for incoming connections
+INFO -  2017-11-22 03:31:08,664 -  Client from ('172.17.0.93', 48182) pinging
+INFO -  2017-11-22 03:31:17,472 -  Client from ('172.17.0.93', 48278) pinging
+INFO -  2017-11-22 03:31:18,856 -  Client from ('172.17.0.93', 48284) pinging
+INFO -  2017-11-22 03:31:19,768 -  Client from ('172.17.0.93', 48298) pinging
+INFO -  2017-11-22 03:31:20,479 -  Client from ('172.17.0.93', 48308) pinging
+INFO -  2017-11-22 03:31:21,114 -  Client from ('172.17.0.93', 48312) pinging
+INFO -  2017-11-22 03:31:21,720 -  Client from ('172.17.0.93', 48318) pinging
+INFO -  2017-11-22 03:31:22,384 -  Client from ('172.17.0.93', 48326) pinging
